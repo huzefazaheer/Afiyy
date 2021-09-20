@@ -1,6 +1,4 @@
-Hi, I’m @Afiyy
-I’m interested in app devalopment
-I’m currently learning android studio
+hello world yes i code java
 
 <!---
 Afiyy/Afiyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
