@@ -1,4 +1,3 @@
-hello world yes i code java
 
 <!---
 Afiyy/Afiyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
